@@ -1,0 +1,14 @@
+{
+  "aps": {
+    "badge": 1,
+    "alert": {
+      "title": "Push",
+      "subtitle": "Sample push Notification",
+      "body": "I am push notification",
+      "sound": "default",
+    },
+    "content-available": 1,
+    "mutable-content":1
+  },
+  "media-url": "https://sandbox-media.publicvibe.com/notif/20210820/notification_20210820042102356_405x540.jpg"
+}
