@@ -1,0 +1,53 @@
+{
+  "activity": null,
+  "answerId": null,
+  "aps": {
+    "alert": {
+      "body": "This is body",
+      "mutable-content": 1,
+      "title": "This is title"
+    },
+    "badge": 1,
+    "content-available": 1,
+    "sound": "ios_push_notification_sound.caf"
+  },
+  "blackListPost": "",
+  "bucketNum": "",
+  "cdnLink": "https://www.pvibe.in/notificationjsondocuments/notifications/20221117/notification_166865571572413191317282649553641413119.json",
+  "country": null,
+  "id": null,
+  "imageUri": "https://media.publicvibe.com/community/topic/20221117/1882175089_68495_093719523_339x602.jpg",
+  "keyWord": "",
+  "kind": "allupdates",
+  "language": 2,
+  "loc": {
+    "badgeId": null,
+    "constituency": null,
+    "constituencyId": null,
+    "distance": null,
+    "districtId": null,
+    "districtName": null,
+    "latitude": 0,
+    "locationId": null,
+    "locationTypeId": null,
+    "longitude": 0,
+    "mandalId": null,
+    "name": null,
+    "stateId": null,
+    "stateName": null
+  },
+  "magazineType": "unknown",
+  "memberId": null,
+  "message": null,
+  "newsTypeId": 98,
+  "postId": 1668655715724131913,
+  "questionId": null,
+  "sound": "default",
+  "stateId": null,
+  "title": "",
+  "type": "indirect_postid",
+  "url": null,
+  "userId": 1573537709944500152,
+  "watermark": "2022-11-17 09:39:58",
+  "whiteListPost": ""
+}

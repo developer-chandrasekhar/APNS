@@ -1,0 +1,44 @@
+{
+  "answerId": null,
+  "country": null,
+  "magazineType": "unknown",
+  "watermark": "2021-08-20 04:22:00",
+  "questionId": null,
+  "activity": {
+    "activityName": null,
+    "activityTitle": null,
+    "activityParams": null,
+    "activityAPIUrl": null,
+    "activityAPIParams": null,
+    "webUrl": null,
+    "imageUrl": null,
+    "url": null
+  },
+  "Simulator Target Bundle": "com.newsDistill.NewsDistillApp",
+  "aps": {
+    "badge": 1,
+    "alert": {
+      "body": "మంచిర్యాల: మున్సిపాలిటీ నేడు అవినీతిలో",
+      "title": "video_mp4_98"
+    },
+    "sound": "",
+    "content-available": 1,
+    "mutable-content": 1
+  },
+  "kind": "allupdates",
+  "language": "6",
+  "postId": "1683885871683163795",
+  "newsTypeId" : "98",
+  "type": "indirect_postid",
+  "message": null,
+  "title": "",
+  "userId": "92",
+  "blackListPost": "",
+  "url": null,
+  "keyWord": "",
+  "imageUri": "https://sandbox-media.publicvibe.com/notif/20210820/notification_20210820042102356_405x540.jpg",
+  "whiteListPost": "",
+  "id": null,
+  "bucketNum": "",
+  "memberId": null
+}

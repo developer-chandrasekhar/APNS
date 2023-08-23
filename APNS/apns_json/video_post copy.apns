@@ -1,0 +1,48 @@
+{
+    activity = "<null>";
+    answerId = "<null>";
+    aps =     {
+        alert =         {
+            body = "\U0c2a\U0c3f\U0c28\U0c2a\U0c3e\U0c15: \U0c2a\U0c4d\U0c30\U0c38\U0c4d\U0c24\U0c41\U0c24 \U0c2a\U0c30\U0c3f\U0c38\U0c4d\U0c25\U0c3f\U0c24\U0c41\U0c32\U0c32\U0c4b  \U0c35\U0c3e\U0c30\U0c3f\U0c15\U0c3f \U0c15\U0c30\U0c3e\U0c1f\U0c47 \U0c36\U0c3f\U0c15\U0c4d\U0c37\U0c23 \U0c05\U0c35\U0c38\U0c30\U0c02";
+            title = PublicVibe;
+        };
+        badge = 1;
+        "content-available" = 1;
+        sound = default;
+    };
+    blackListPost = "";
+    bucketNum = "<null>";
+    cdnLink = "https://www.pvibe.in/notificationjsondocuments/notifications/20211112/notification_16366897101501365505795595947572057568.json";
+    country = "<null>";
+    id = "<null>";
+    imageUri = "https://media.publicvibe.com/community/topic/20211112/50_70964_040149568_540x960.jpg";
+    keyWord = "<null>";
+    kind = allupdates;
+    language = 2;
+    loc =     {
+        badgeId = "<null>";
+        constituencyId = 60000085;
+        distance = 30;
+        districtId = 1056;
+        latitude = "17.9312067";
+        locationId = 5848;
+        locationTypeId = 11;
+        longitude = "80.82661969";
+        mandalId = 5848;
+        name = Manuguru;
+        stateId = 3;
+    };
+    magazineType = "<null>";
+    memberId = "<null>";
+    message = "<null>";
+    newsTypeId = 98;
+    postId = 1636689710150136550;
+    questionId = 1636689710150136550;
+    stateId = "<null>";
+    title = "<null>";
+    type = "indirect_postid";
+    url = "<null>";
+    userId = 1;
+    watermark = "2021-11-12 13:12:40";
+    whiteListPost = "";
+}

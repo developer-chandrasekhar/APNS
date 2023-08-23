@@ -1,0 +1,42 @@
+{
+  "answerId": null,
+  "country": null,
+  "magazineType": "unknown",
+  "watermark": "2021-08-20 04:22:00",
+  "questionId": "7477",
+  "activity": {
+    "activityName": null,
+    "activityTitle": null,
+    "activityParams": null,
+    "activityAPIUrl": null,
+    "activityAPIParams": null,
+    "webUrl": null,
+    "imageUrl": null,
+    "url": null
+  },
+  "Simulator Target Bundle": "com.newsDistill.NewsDistillApp",
+  "aps": {
+    "badge": 1,
+    "alert": {
+      "body": "Needs to redirect to Product Page",
+      "title": "Product Notification"
+    },
+    "sound": "",
+    "content-available": 1
+  },
+  "kind": "allupdates",
+  "language": "6",
+  "postId": "1629433295929175011",
+  "type": "product",
+  "message": null,
+  "title": "",
+  "userId": "92",
+  "blackListPost": "",
+  "url": null,
+  "keyWord": "",
+  "imageUri": "https://sandbox-media.publicvibe.com/notif/20210820/notification_20210820042102356_405x540.jpg",
+  "whiteListPost": "",
+  "id": null,
+  "bucketNum": "",
+  "memberId": null
+}

@@ -1,0 +1,42 @@
+{
+  "answerId": null,
+  "country": null,
+  "magazineType": "unknown",
+  "watermark": "2021-08-20 04:22:00",
+  "questionId": null,
+  "activity": {
+    "activityName": null,
+    "activityTitle": null,
+    "activityParams": null,
+    "activityAPIUrl": null,
+    "activityAPIParams": null,
+    "webUrl": null,
+    "imageUrl": null,
+    "url": null
+  },
+  "Simulator Target Bundle": "com.newsDistill.NewsDistillApp",
+  "aps": {
+    "badge": 1,
+    "alert": {
+      "body": "Need to redirect member page",
+      "title": "Vibe Member Notification"
+    },
+    "sound": "",
+    "content-available": 1
+  },
+  "kind": "allupdates",
+  "language": "6",
+  "postId": "",
+  "type": "vibe_member",
+  "message": null,
+  "title": "",
+  "userId": null,
+  "blackListPost": "",
+  "url": null,
+  "keyWord": "",
+  "imageUri": "https://sandbox-media.publicvibe.com/notif/20210820/notification_20210820042102356_405x540.jpg",
+  "whiteListPost": "",
+  "id": null,
+  "bucketNum": "",
+  "memberId": 1629463680831552108
+}

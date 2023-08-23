@@ -1,0 +1,57 @@
+
+{
+  "answerId": null,
+  "country": null,
+  "magazineType": "unknown",
+  "questionId": null,
+  "activity": null,
+  "sound": "default",
+  "language": "2",
+  "type": "indirect_postid",
+  "notificationChannel": null,
+  "title": "",
+  "uid": "-2131105578",
+  "imageUri": "https://media.publicvibe.com/community/topic/20221222/1501283768_37267_021855130_336x597.jpg",
+  "whiteListPost": "",
+  "cdnLink": "https://www.pvibe.in/notificationjsondocuments/notifications/20221222/notification_16716706785341327407937538195148626075.json",
+  "id": null,
+  "memberId": null,
+  "watermark": "2022-12-22 02:19:26",
+  "notif_loc": {
+    "name": "Rajanna Sircilla",
+    "longitude": 78.8015,
+    "latitude": 18.3892,
+    "distance": null,
+    "locationTypeId": "10",
+    "locationId": "1049",
+    "mandalId": null,
+    "districtId": "1049",
+    "stateId": "3",
+    "constituencyId": null,
+    "badgeId": null,
+    "districtName": null,
+    "stateName": null,
+    "constituency": null
+  },
+  "aps": {
+    "badge": 1,
+    "alert": {
+      "body": "రాజన్న సిరిసిల్ల జిల్లా టాప్ న్యూస్: అవినీతిపై ముందు విచారణ జరిపించండి..! ",
+      "title": "పబ్లిక్ వైబ్"
+    },
+    "sound": "ios_push_notification_sound.caf",
+    "content-available": 1,
+    "mutable-content": 1
+  },
+  "kind": "allupdates",
+  "stateId": null,
+  "postId": "1671670678534132740",
+  "message": null,
+  "userId": "1654587161920572208",
+  "blackListPost": "",
+  "url": null,
+  "keyWord": "",
+  "newsTypeId": "98",
+  "districtId": "1049",
+  "bucketNum": ""
+}
